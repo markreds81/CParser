@@ -1,0 +1,57 @@
+#######################################
+# Syntax Coloring Map MyName
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+CParser	KEYWORD1
+CParserCallback	KEYWORD1
+CParserCallbackBool	KEYWORD1
+CParserCallbackChar	KEYWORD1
+CParserCallbackByte	KEYWORD1
+CParserCallbackUint8	KEYWORD1
+CParserCallbackUint16	KEYWORD1
+CParserCallbackUint32	KEYWORD1
+CParserCallbackInt8	KEYWORD1
+CParserCallbackInt16	KEYWORD1
+CParserCallbackInt32	KEYWORD1
+CParserCallbackFloat	KEYWORD1
+CParserCallbackCharArray	KEYWORD1
+CParserCallbackString	KEYWORD1
+CParserCondition	KEYWORD1
+CParserCriterion	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+readBool	KEYWORD2
+readChar	KEYWORD2
+readByte	KEYWORD2
+readInt8	KEYWORD2
+readInt16	KEYWORD2
+readInt32	KEYWORD2
+readUnsignedInt8	KEYWORD2
+readUnsignedInt16	KEYWORD2
+readUnsignedInt32	KEYWORD2
+float	KEYWORD2
+readFloat	KEYWORD2
+readUnsignedFloat	KEYWORD2
+readCharArray	KEYWORD2
+readString	KEYWORD2
+compare	KEYWORD2
+search	KEYWORD2
+ifCurrentIs	KEYWORD2
+IfCurrentIsNot	KEYWORD2
+doUntil	KEYWORD2
+doWhile	KEYWORD2
+skip	KEYWORD2
+skipWhile	KEYWORD2
+skipUntil	KEYWORD2
+Jump	KEYWORD2
+jumpAfter	KEYWORD2
+jumpTo	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
